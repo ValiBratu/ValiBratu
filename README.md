@@ -32,7 +32,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/mi
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50"/>
 <img src="https://github.com/go-swagger/go-swagger/blob/master/docs/favicon.ico" alt="swagger" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="Csharp" width="50" height="50"/>
-<img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core%20MVC/Bitmap%20RGB/ASP.NET-Core-MVC_Logo_2colors_Boxed_RGB_bitmap_MEDIUM.png" alt="Csharp" width="110" height="50"/>
+<img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core%20MVC/Bitmap%20RGB/ASP.NET-Core-MVC_Logo_2colors_Boxed_RGB_bitmap_MEDIUM.png" alt="MVC" width="110" height="50"/>
 <img src="https://github.com/IdentityServer/Artwork/blob/main/Logos/IDserver_icon.svg" alt="IdentityServer" width="50" height="50"/>
 <img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-BIG_Entity-Framework-Core-Logo_2Colors_Boxed_RGB.png" alt="EFCore" width="100" height="50"/>
 <img src="https://cdn.svgporn.com/logos/postman.svg" alt="postman" width="50" height="50"/>
@@ -42,6 +42,7 @@ Planning and Version control
 <img 
 src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/>
 <img src="https://github.com/benc-uk/icon-collection/blob/master/logos/azure-offical.svg" alt="azure" width="50" height="50"/>
 
 
